@@ -78,15 +78,14 @@
 .keys .key {
     position: relative;
     cursor: pointer;
-
     display: block;
     height: 0;
     padding-top: 94%;
     background-color: #c8cee2bc;
-    border-radius: 1rem;
+    border-radius: 2rem;
     transition: 0.2s;
     user-select: none;
-    box-shadow:3px 3px 5px yellow;
+    box-shadow: 4px 4px 10px yellow;
 }
 
 .keys .key span {
